@@ -1,0 +1,4 @@
+interface Printable {
+
+    fun print()
+}
