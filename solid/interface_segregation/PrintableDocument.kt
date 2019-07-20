@@ -1,0 +1,4 @@
+interface PrintableDocument {
+    
+    fun printDocument()
+}

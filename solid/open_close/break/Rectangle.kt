@@ -1,0 +1,1 @@
+class Rectangle(val a: Double, val b: Double)

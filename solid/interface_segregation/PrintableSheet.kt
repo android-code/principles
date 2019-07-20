@@ -1,0 +1,4 @@
+interface PrintableSheet {
+    
+    fun printSheet()
+}
